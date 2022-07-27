@@ -15,8 +15,16 @@
 
 ## Overview of The Project
 After run the app we will find an interface like below
-<img src='assets/interface_1.PNG' width=650><br/><br/>
+<img src='asset/interface_1.png' width=650><br/><br/>
 
+Here just require to upload a pdf then the app will generate a word frequence table and a wordcloud like below image.
+
+<img src='asset/interface_2.png' width=650><br/><br/>
+
+Finally we have to give a number to generate summary from the uploaded pdf. Again below image will represent a sample view.
+<img src='asset/interface_3.png' width=650><br/><br/>
+
+Finally Thank you for visiting.
 
  
  
